@@ -1,0 +1,10 @@
+h1 {
+    background-color: brown;
+    padding: 1rem 2rem;
+}
+
+p {
+    font-family: monospace;
+    color: cadetblue;
+    font-size: 1.2rem;
+}
