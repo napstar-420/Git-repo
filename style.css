@@ -8,3 +8,8 @@ p {
     color: cadetblue;
     font-size: 1.2rem;
 }
+
+
+span {
+    display: inline-block;
+}
